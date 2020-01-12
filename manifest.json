@@ -1,0 +1,38 @@
+{
+  "name": "KULINER ASIK",
+  "short_name": "Kulinerasik",
+  "start_url": "kulinerasik.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Membahas kuliner asik dan tempat wisata yang lagi viral",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-dGTPVfnJfyU/Xhq1GOI8MuI/AAAAAAAAEJ4/8fJaU9k6rPQI9RDtvU3-RNlKSFDxjxsnACLcBGAsYHQ/s48/15.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dGTPVfnJfyU/Xhq1GOI8MuI/AAAAAAAAEJ4/8fJaU9k6rPQI9RDtvU3-RNlKSFDxjxsnACLcBGAsYHQ/s72/15.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dGTPVfnJfyU/Xhq1GOI8MuI/AAAAAAAAEJ4/8fJaU9k6rPQI9RDtvU3-RNlKSFDxjxsnACLcBGAsYHQ/s96/15.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dGTPVfnJfyU/Xhq1GOI8MuI/AAAAAAAAEJ4/8fJaU9k6rPQI9RDtvU3-RNlKSFDxjxsnACLcBGAsYHQ/s144/15.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dGTPVfnJfyU/Xhq1GOI8MuI/AAAAAAAAEJ4/8fJaU9k6rPQI9RDtvU3-RNlKSFDxjxsnACLcBGAsYHQ/s168/15.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dGTPVfnJfyU/Xhq1GOI8MuI/AAAAAAAAEJ4/8fJaU9k6rPQI9RDtvU3-RNlKSFDxjxsnACLcBGAsYHQ/s192/15.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dGTPVfnJfyU/Xhq1GOI8MuI/AAAAAAAAEJ4/8fJaU9k6rPQI9RDtvU3-RNlKSFDxjxsnACLcBGAsYHQ/s512/15.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
